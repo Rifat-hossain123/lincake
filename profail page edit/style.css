@@ -1,0 +1,127 @@
+body{
+	border-radius: 10px;
+}
+.container{
+	background-image: url(cover.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 10px;
+	padding-top: 50px;
+	text-align: center;
+	background-color: green;
+}
+
+.container p{
+	margin: 0 auto;
+	
+	height: 100px;
+	width: 100px;
+	border-radius: 100px;
+	background-color: red;
+}
+
+nav input{
+	margin: 10px 20px;
+	height: 30px;
+	border-radius: 10px;
+	font-size: 20px;
+
+}
+
+
+
+
+#bio{
+	margin: 0 auto;
+
+	padding: 10px;
+	font-size: 15px;
+	border-radius: 10px;
+	
+	height: 100px;
+	background-color: white;
+}
+
+
+
+
+/*----------------form---------*/
+form{
+	border-radius: 10px;
+	margin: 20px;
+	background-color:  #1affff;
+}
+form h1{
+	padding: 10px;
+	color: black;
+	text-shadow: 1px 1px gray;
+}
+form input{
+	border-radius: 8px;
+	height: 20px;
+	font-size: 15px;
+	padding:5px;
+	border-color: black;
+	border-style: solid;
+}
+form button{
+	padding:5px;
+	font-size: 15px;
+	background-color:  #66b3ff;
+	border-radius: 10px;
+	border-style: none;
+}
+
+form submit
+
+/*----------------form---------*/
+
+
+
+
+
+nav{
+	background-color: #00004d;
+}
+
+footer{
+	border-radius: 8px;
+	height: 100px;
+	background-color: #00004d;
+	color: white;
+}
+
+footer h1{
+	padding-left: 10px;
+	margin-top: 0px;
+	box-sizing: border-box;
+	float: left;
+	font-family: 'Otomanopee One', sans-serif;
+	font-size: 50px;
+}
+
+footer .link{
+	box-sizing: border-box;
+	margin-top: 40px;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	float: right;
+	margin-right: 1px;
+
+}
+.link a{
+	padding-right: 10px;
+	float: right;
+	color: white;
+	text-decoration:none;
+}
+
+footer .copy{
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}

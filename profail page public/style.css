@@ -1,0 +1,138 @@
+body{
+	box-sizing: border-box;
+	background-color:  #e6ffff;
+	border-radius: 10px;
+}
+.container{
+	background-image: url(cover.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 10px;
+	padding-top: 50px;
+	text-align: center;
+	background-color:  #66ffcc;
+}
+.container a{
+	box-sizing: border-box;
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px;
+	background-color: white;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+	padding-top: 0px;
+	float: right;
+	margin-top: 0px;
+	color: blue;
+	margin: 0px;
+	padding: 0px;
+		font-family: 'Otomanopee One', sans-serif;
+}
+.container a:hover{
+	background-color: blue;
+	color: white;
+}
+.container p{
+	margin: 0 auto;
+	
+	height: 100px;
+	width: 100px;
+	border-radius: 100px;
+	background-color: red;
+}
+
+
+
+
+
+
+#bio{
+	margin: 0 auto;
+
+	padding: 10px;
+	font-size: 15px;
+	border-radius: 10px;
+	
+	height: 100px;
+	background-color: white;
+}
+
+
+
+/*------link----------*/
+.public-link{
+	box-sizing: border-box;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color:  #e6fff7;
+}
+.public-link a{
+	text-decoration: none;
+}
+.public-link a p{
+	width: 70%;
+	max-width: 80%;
+	padding: 10px;
+	background-color:  #b3b3b3;
+	color: black;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: black;
+	font-size: 20px;
+}
+.public-link a p:hover{
+	background-color: white;
+	color: black;
+}
+/*---link-------------*/
+
+
+/*--------------footer------------*/
+
+nav{
+	background-color: white;
+}
+
+footer{
+	border-radius: 8px;
+	height: 100px;
+	background-color: #00004d;
+	color: white;
+}
+
+footer h1{
+	padding-left: 10px;
+	margin-top: 0px;
+	box-sizing: border-box;
+	float: left;
+	font-family: 'Otomanopee One', sans-serif;
+	font-size: 50px;
+}
+
+footer .link{
+	box-sizing: border-box;
+	margin-top: 40px;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	float: right;
+	margin-right: 1px;
+
+}
+.link a{
+	padding-right: 10px;
+	float: right;
+	color: white;
+	text-decoration:none;
+}
+
+footer .copy{
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}
